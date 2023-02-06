@@ -15,7 +15,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Mutlu was here...{' '}
+                    Mutlu was NOT here. ..{' '}
                 </a>
             </header>
         </div>
