@@ -14,8 +14,8 @@
             },
             {
                 "filePath": "@blueprintjs/core",
-                "exportName": "Hotkey, Hotkeys, HotkeysTarget",
-                "name": "Hotkey"
+                "exportName": "Navbar",
+                "name": "Navbar"
             }
         ]
     }
