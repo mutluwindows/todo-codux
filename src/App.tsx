@@ -1,11 +1,10 @@
-import logo from './assets/logo.svg';
 import styles from './App.module.scss';
 
 function App() {
     return (
         <div className={styles.App}>
             <header className={styles['App-header']}>
-                <img src={logo} className={styles['App-logo']} alt="logo" />
+                <img src="https://wixplosives.github.io/codux-assets-storage/add-panel/image-placeholder.jpg" />
                 <p>
                     Edit <code>src/App.tsx</code> and save to reload.
                 </p>
