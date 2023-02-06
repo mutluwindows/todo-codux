@@ -11,6 +11,11 @@
                 "filePath": "@blueprintjs/core",
                 "exportName": "Button",
                 "name": "Button"
+            },
+            {
+                "filePath": "@blueprintjs/core",
+                "exportName": "Hotkey, Hotkeys, HotkeysTarget",
+                "name": "Hotkey"
             }
         ]
     }
